@@ -35,15 +35,6 @@ Each record is saved on a new line using the following format:
 first_name,surname,subject,grade
 Example:
 amelie,brown,science,79
-
-## Program Features
-The system allows the user to:
-- Add new student records
-- Search for students by first name or surname
-- Update existing student details
-- Display all students grouped by subject
-- Delete individual subject records or all records for a student
-- View statistics such as average, highest, and lowest grades per subject
   
 ## Design Notes
 The program uses a modular structure to keep the code organised and easy to understand.
